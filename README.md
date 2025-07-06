@@ -8,6 +8,8 @@
 
 Welcome to my GitHub profile! I'm a passionate developer who loves exploring new technologies and building impactful projects.
 
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+
 <p align="center">
   <a href="https://open.spotify.com/user/31ppxc3sifqweovaqlf5zb2qq7ky">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ppxc3sifqweovaqlf5zb2qq7ky&width=500" alt="Recently played on Spotify">
