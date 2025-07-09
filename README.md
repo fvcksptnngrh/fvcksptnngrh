@@ -65,6 +65,7 @@
 </br>
 </br>
 </br>
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=fvcksptnngrh.fvcksptnngrh&left_color=blue&right_color=red&left_text=stalker"  />
 </div>
@@ -72,7 +73,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fvcksptnngrh&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
-
+</br>
+</br>
 <div align="center">
   
 ![snake gif](https://github.com/fvcksptnngrh/fvcksptnngrh/blob/output/github-snake-dark.svg)
