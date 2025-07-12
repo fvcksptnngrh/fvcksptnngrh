@@ -41,9 +41,7 @@
 </div>
 </br>
 
-
 <h3 align="center">Catch me here</h3>
-
 
 <div align="center">
   <a href="www.linkedin.com/in/adhiseptiannugroho" target="_blank">
