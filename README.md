@@ -87,3 +87,4 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ppxc3sifqweovaqlf5zb2qq7ky&width=500" alt="Recently played on Spotify">
   </a>
 </p>
+
