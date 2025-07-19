@@ -75,6 +75,7 @@
 </br>
 </br>
 <div align="center">
+  
 ![snake gif](https://github.com/fvcksptnngrh/fvcksptnngrh/blob/output/github-snake-dark.svg)
 
 </div>
