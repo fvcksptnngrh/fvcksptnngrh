@@ -60,6 +60,9 @@
   <a href="https://www.instagram.com/adhisptian" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
+  <a href="https://open.kattis.com/users/adhihi" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="kattis logo"  />
+  </a>
 </div>
 </br>
 </br>
